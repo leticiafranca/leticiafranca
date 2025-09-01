@@ -25,7 +25,6 @@ Aqui no GitHub gosto de registrar meus projetos e aprendizados. ✨
   <img src="https://img.shields.io/badge/GitHub-00A86B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-3CB371?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Eclipse-228B22?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-2E8B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MySQL-006400?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
